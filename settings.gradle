@@ -1,0 +1,2 @@
+rootProject.name='vy sim'
+include ':app'
